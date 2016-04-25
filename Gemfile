@@ -41,7 +41,7 @@ end
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'pg'
-  gem 'rails_12factor'
+  #gem 'rails_12factor'
   gem 'web-console', '~> 2.0'
 end
 gem 'httparty', '0.13.7'
