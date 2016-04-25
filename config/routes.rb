@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   get 'courses/index'
   #specific index
-  root 'courses#index'
+  root 'courses#home'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
